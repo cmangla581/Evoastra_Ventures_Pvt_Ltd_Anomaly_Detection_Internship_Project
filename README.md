@@ -1,4 +1,9 @@
 # Evoastra_Ventures_Pvt_Ltd_Anomaly_Detection_Internship_Project
+# Chaitanya Mangla  
+# AI & ML Intern 
+# University School of Automation and Robotics (USAR), GGSIPU (EDC) 
+# Artificial Intelligence - Data Science First Year 
+
 This project is based on the Real World Datasets Energy Anomaly Detection, which is a type of Unsupervise Machine Learning. Here, real world means that the data has hundreds and thousands of rows and columns. 
 Some even reach lakhs of rows. 
 
