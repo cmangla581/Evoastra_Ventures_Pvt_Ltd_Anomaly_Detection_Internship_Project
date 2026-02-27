@@ -1,5 +1,6 @@
 # Evoastra_Ventures_Pvt_Ltd_Anomaly_Detection_Internship_Project
-This project is based on the Real world Datasets Energy Anomaly Detection, which is a type of Unsupervise Machine Learning. 
+This project is based on the Real World Datasets Energy Anomaly Detection, which is a type of Unsupervise Machine Learning. Here, real world means that the data has hundreds and thousands of rows and columns. 
+Some even reach lakhs of rows. 
 
 Anomaly Detection is a Ml technique that is used to identify thr data points that are very different for the normal patternin a dataset. It basically finds the unusual or suspicuous data.  
 
